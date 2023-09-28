@@ -14,7 +14,7 @@ import contextlib
 import copy
 import numpy as np
 
-from cocoeval_ori import COCOeval
+from cocoeval_plus import COCOeval
 from pycocotools.coco import COCO
 
 from utils import all_gather
